@@ -1,1 +1,1 @@
-# ligth-dark-theme-site
+# light-dark-theme-site
